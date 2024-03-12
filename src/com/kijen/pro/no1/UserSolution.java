@@ -41,7 +41,6 @@ class UserSolution {
 
         unionSet(a, b);
 
-
         return -4;
     }
 
